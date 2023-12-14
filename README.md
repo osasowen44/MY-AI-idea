@@ -13,5 +13,5 @@ EcoFootprintAnalyzer is designed for individuals who want to understand and redu
 Challenges:
 While EcoFootprintAnalyzer provides valuable insights and suggestions, it does not directly address larger systemic issues such as industrial emissions or government policies. It is essential to recognize that individual actions, while meaningful, cannot solve the climate crisis on their own. Additionally, the accuracy of the carbon footprint calculation depends on the completeness and accuracy of the user-input data, which may vary.
 
-summary
+##summary
 The project could evolve by integrating real-time data from IoT devices, enhancing the accuracy of carbon footprint calculations. Collaborations with environmental organizations, businesses, and governments could broaden the impact by influencing policies and practices at a larger scale. Continuous updates and improvements based on user feedback will be crucial for the project's growth.
